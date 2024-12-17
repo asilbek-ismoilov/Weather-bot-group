@@ -7,3 +7,4 @@ from aiogram.filters import Command
 async def about_commands(message:Message):
     await message.answer("nech narsa")
 
+# Marjona
